@@ -1,8 +1,65 @@
 {
+"name": "flare",
+ "children": [
+  {
+  "name": "Sunday",
+  "children": [
+  {
+  "name":"Ink",
+  "children": [
+  {"name": "Calm", "value": 2},
+  {"name": "Confident", "value": 1},
+  {"name": "Happy", "value": 1},
+  {"name": "Creative", "value": 2},
+]
+},
+{
+  "name":"Painting",
+  "children": [
+  {"name": "Calm", "value": 2},
+  {"name": "Accomplished", "value": 1},
+]
+},
+{
+  "name": "Digital",
+  "children": [
+  {"name": "Creative", "value": 1},
+  {"name": "Stressed", "value": 1},
+  {"name": "Playful", "value": 1},
+]
+},
+{
+  "name": "Videogames",
+  "children": [
+  {"name": "Tired", "value": 2},
+  {"name": "Accomplished", "value": 1},
+  {"name": "Happy", "value": 1},
+]
+},
+{
+  "name": "Movie",
+  "children": [
+  {"name": "Tired", "value": 2},
+  {"name": "Confused", "value": 1},
+]
+},
+{
+  "name": "TV",
+  "children": [
+  {"name": "Tired", "value": 2},
+  {"name": "Calm", "value": 1},
+]
+}
+]
+},
+"name": "Saturday"
+
+
+{
  "name": "flare",
  "children": [
   {
-   "name": "analytics",
+   "name": "analytics", //Sunday
    "children": [
     {
      "name": "cluster",
@@ -32,7 +89,7 @@
    ]
   },
   {
-   "name": "animate",
+   "name": "animate", //Saturday
    "children": [
     {"name": "Easing", "value": 17010},
     {"name": "FunctionSequence", "value": 5842},
@@ -196,7 +253,7 @@
    ]
   },
   {
-   "name": "util",
+   "name": "util", //Monday
    "children": [
     {"name": "Arrays", "value": 8258},
     {"name": "Colors", "value": 10001},
