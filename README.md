@@ -1,6 +1,6 @@
 # D3 Assignment
 
-Team Members
+Team Members:
 Star Hagen-Esquerra
 
 
