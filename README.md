@@ -2,6 +2,8 @@
 
 Team Members:
 Star Hagen-Esquerra
+Nathanael Fonken
+Alejandro Silva-Serrano
 
 
 Our drawing is labeled d3drawing.png.
